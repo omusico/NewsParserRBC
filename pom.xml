@@ -17,7 +17,6 @@
             <timezone>-4</timezone>
         </developer>
     </developers>
-
     <dependencies>
         <dependency>
             <groupId>log4j</groupId>

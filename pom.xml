@@ -9,6 +9,15 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
+    <developers>
+        <developer>
+            <id>Ishikawa Yoshi</id>
+            <name>Shpak Alexander</name>
+            <email>shpak.aleks@gmail.com</email>
+            <timezone>-4</timezone>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>log4j</groupId>

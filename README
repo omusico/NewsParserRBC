@@ -1,1 +1,5 @@
-This file was created by IntelliJ IDEA 12.0.4 for binding GitHub repository
+News Parser Project
+
+Configuration:
++ Apache Tomcat/7.0.39
++ java version "1.7"
